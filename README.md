@@ -3,7 +3,7 @@ Another collection of solutions to the "100 Days of Code: The Complete Python Pr
 
 ## Beginner (Days 1 -- 14)
 ### Day   1 - Working with Variables
-* [Band Name Generator](d1 - band name generator.ipynb)
+* d1 - band name generator.ipynb
 ### Day   2 - Data Types and String Manipulation
 ### Day   3 - Control Flow and Logical Operators
 ### Day   4 - Randomisation and Lists
