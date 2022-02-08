@@ -5,6 +5,7 @@ Another collection of solutions to the "100 Days of Code: The Complete Python Pr
 ### Day   1 - Working with Variables
 * d1 - band name generator.ipynb
 ### Day   2 - Data Types and String Manipulation
+* d2 - tip calculator.ipynb
 ### Day   3 - Control Flow and Logical Operators
 ### Day   4 - Randomisation and Lists
 ### Day   5 - Loops
