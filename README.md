@@ -2,12 +2,12 @@
 Another collection of solutions to the "100 Days of Code: The Complete Python Pro Bootcamp for 2022" course on Udemy.
 
 ## Beginner (Days 1 -- 14)
-### Day   1 - Working with Variables
-* [Band name generator](./ipynb notebooks/d1 - band name generator.ipynb)
-### Day   2 - Data Types and String Manipulation
-* [Tip calculator](./ipynb notebooks/d2 - tip calculator.ipynb)
-### Day   3 - Control Flow and Logical Operators
-* [Text-based adventure](./ipynb notebooks/d3 - treasure island.ipynb)
+#### Day   1 - Working with Variables
+[Band name generator](./ipynb_notebooks/d1_band_name_generator.ipynb)
+#### Day   2 - Data Types and String Manipulation
+[Tip calculator](./ipynb_notebooks/d2_tip_calculator.ipynb)
+#### Day   3 - Control Flow and Logical Operators
+[Text-based adventure](./ipynb_notebooks/d3_treasure_island.ipynb)
 ### Day   4 - Randomisation and Lists
 ### Day   5 - Loops
 ### Day   6 - Functions & Karel
