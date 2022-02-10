@@ -9,6 +9,7 @@ Another collection of solutions to the "100 Days of Code: The Complete Python Pr
 #### Day   3 - Control Flow and Logical Operators
 [Text-based adventure](./ipynb_notebooks/d3_treasure_island.ipynb)
 ### Day   4 - Randomisation and Lists
+[Simple Rock Paper Scissors game](./ipynb_notebooks/d4_rock_paper_scissors.ipynb)
 ### Day   5 - Loops
 ### Day   6 - Functions & Karel
 ### Day   7 - Hangman
