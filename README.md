@@ -3,10 +3,10 @@ Another collection of solutions to the "100 Days of Code: The Complete Python Pr
 
 ## Beginner (Days 1 -- 14)
 <b>Day   1 - Working with Variables</b> [Band name generator](./ipynb_notebooks/d1_band_name_generator.ipynb)
-<b>Day   2 - Data Types and String Manipulation</b> [Tip calculator](./ipynb_notebooks/d2_tip_calculator.ipynb)
-<b>Day   3 - Control Flow and Logical Operators</b> [Text-based adventure](./ipynb_notebooks/d3_treasure_island.ipynb)
-<b>Day   4 - Randomisation and Lists</b> [Simple Rock Paper Scissors game](./ipynb_notebooks/d4_rock_paper_scissors.ipynb)
-<b>Day   5 - Loops</b> [Simple password generator](./ipynb_notebooks/d5_password_gen.ipynb)
+<br><b>Day   2 - Data Types and String Manipulation</b> [Tip calculator](./ipynb_notebooks/d2_tip_calculator.ipynb)
+<br><b>Day   3 - Control Flow and Logical Operators</b> [Text-based adventure](./ipynb_notebooks/d3_treasure_island.ipynb)
+<br><b>Day   4 - Randomisation and Lists</b> [Simple Rock Paper Scissors game](./ipynb_notebooks/d4_rock_paper_scissors.ipynb)
+<br><b>Day   5 - Loops</b> [Simple password generator](./ipynb_notebooks/d5_password_gen.ipynb)
 ### Day   6 - Functions & Karel
 ### Day   7 - Hangman
 ### Day   8 - Function Parameters & Caesar Cipher
