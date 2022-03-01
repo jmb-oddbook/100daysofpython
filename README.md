@@ -8,6 +8,9 @@ Another collection of solutions to the "100 Days of Code: The Complete Python Pr
 <br><b>Day   4 - Randomisation and Lists</b> [Simple Rock Paper Scissors game](./ipynb_notebooks/d4_rock_paper_scissors.ipynb)
 <br><b>Day   5 - Loops</b> [Simple password generator](./ipynb_notebooks/d5_password_gen.ipynb)
 <br><b>Day   6 - Functions & Karel</b> [Fun in Reeborg's World](./ipynb_notebooks/d6_reeborgs_world_maze), see also [https://reeborg.ca/reeborg.html](https://reeborg.ca/reeborg.html)
+
+Got sidetracked by current political events for a week. Will continue today (1 Mar 2022).
+
 ### Day   7 - Hangman
 ### Day   8 - Function Parameters & Caesar Cipher
 ### Day   9 - Dictionaries, Nesting, and the Secret Auction
