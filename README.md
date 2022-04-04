@@ -9,7 +9,7 @@ Another collection of solutions to the "100 Days of Code: The Complete Python Pr
 <br><b>Day   5 - Loops</b> [Simple password generator](./ipynb_notebooks/d5_password_gen.ipynb)
 <br><b>Day   6 - Functions & Karel</b> [Fun in Reeborg's World](./ipynb_notebooks/d6_reeborgs_world_maze), see also [https://reeborg.ca/reeborg.html](https://reeborg.ca/reeborg.html)
 
-Got sidetracked by current political events for a week. Will continue today (1 Mar 2022).
+Got sidetracked by current events. Will continue.
 
 ### Day   7 - Hangman
 ### Day   8 - Function Parameters & Caesar Cipher
